@@ -1,0 +1,23 @@
+.inputFileds_container {
+    margin: 20px;
+}
+.input_container {
+    margin: 24px auto;
+    width: 100%;
+}
+.input_box {
+    height: 40px !important;
+    width: 320px;
+}
+.helper_text {
+    margin-bottom: 4px !important;
+    color: rgb(119, 114, 114);
+}
+.in {
+    width: auto;
+    height: fit-content;
+}
+
+::placeholder {
+    font-size: 12.5px;
+}
